@@ -25,3 +25,28 @@ Martin Clinton Tosima Manullang, Ph.D.
 │   └── ho_audio.pdf
 └── README.md              
 ```
+
+## Cara Menjalankan Kode
+1. Exercise Loading Multimedia Data
+- Download folder "Exercise-Loading-Multimedia-Data".
+- Setelah di download maka hasil nya akan zip/rar, ekstrak terlebih dahulu.
+- Jika sudah di-ekstrak, buka folder di vscode.
+- Kemudian buat environment, bisa menggunakan conda (Miniconda/Anaconda), venv, atau uv.
+- Jika sudah membuat environment, instal beberapa library yang akan digunakan yaitu:
+1. Numpy
+2. Matplotlib
+3. Librosa
+4. opencv-python
+- Install juga ipykernel supaya jupyter notebook dapat dijalankan.
+
+2. Hands-on-Pemrosesan-Audio
+- Download folder "Hands-on-Pemrosesan-Audio".
+- Setelah di download maka hasil nya akan zip/rar, ekstrak terlebih dahulu.
+- Jika sudah di-ekstrak, buka folder di vscode.
+- Kemudian buat environment, bisa menggunakan conda (Miniconda/Anaconda), venv, atau uv.
+- Jika sudah membuat environment, instal beberapa library yang akan digunakan yaitu:
+1. Numpy
+2. Matplotlib
+3. Librosa
+4. scipy
+- Install juga ipykernel supaya jupyter notebook dapat dijalankan.
