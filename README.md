@@ -3,6 +3,9 @@
 ## Dosen Pengampu
 Martin Clinton Tosima Manullang, Ph.D.
 
+## Nama Mahasiswa
+Arkan Hariz Chandrawinata Liem
+
 ## Repository Structure
 ```
 ├── 1_Exercise-Loading-Multimedia-Data/
