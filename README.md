@@ -29,6 +29,13 @@ Arkan Hariz Chandrawinata Liem
 └── README.md              
 ```
 
+## Library Python
+1. Numpy
+2. Matplotlib
+3. Librosa
+4. Opencv-python
+5. Scipy
+
 ## Cara Menjalankan Kode
 1. Exercise Loading Multimedia Data
 - Download folder "Exercise-Loading-Multimedia-Data".
@@ -39,7 +46,7 @@ Arkan Hariz Chandrawinata Liem
 1. Numpy
 2. Matplotlib
 3. Librosa
-4. opencv-python
+4. Opencv-python
 - Install juga ipykernel supaya jupyter notebook dapat dijalankan.
 
 2. Hands-on-Pemrosesan-Audio
@@ -51,5 +58,5 @@ Arkan Hariz Chandrawinata Liem
 1. Numpy
 2. Matplotlib
 3. Librosa
-4. scipy
+4. Scipy
 - Install juga ipykernel supaya jupyter notebook dapat dijalankan.
