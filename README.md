@@ -5,14 +5,23 @@ Martin Clinton Tosima Manullang, Ph.D.
 
 ## Repository Structure
 ```
-├── 1_Audio-Processing/
-│   ├── audio1.ipynb        
-│   └── audio_file/         
-├── 2_Image-Processing/     
-│   ├── image1.ipynb
-│   └── image_file/
-├── 3_Video-Processing/     
-│   ├── video1.ipynb
-│   └── video_file/
+├── 1_Exercise-Loading-Multimedia-Data/
+|   ├── data/
+|   |   ├── animasi_bertarung_3.mp4
+|   |   ├── pemandangan_gunung.jpg
+|   |   └── pidato_proklamasi.wav
+│   ├── 122140038_Worksheet2.ipynb        
+│   └── 122140038_Worksheet2.pdf         
+├── 2_Hands-on-Pemrosesan-Audio/
+|   ├── data_ho/
+|   |   ├── gabungan_pitch.wav
+|   |   ├── lagu_1.wav
+|   |   ├── lagu_2.wav
+|   |   ├── pitch_+7.wav
+|   |   ├── soal_1.wav
+|   |   └── soal_2.wav
+|   ├── .gitattributes     
+│   ├── ho_audio.ipynb
+│   └── ho_audio.pdf
 └── README.md              
 ```
