@@ -48,7 +48,7 @@
 
 ## 🚀 Cara Menjalankan Kode  
 
-### 🔹 1. Exercise — Loading Multimedia Data  
+### 🔹 1. Exercise: Loading Multimedia Data  
 1. Download folder **`Exercise-Loading-Multimedia-Data`**.  
 2. File akan berbentuk `.zip` atau `.rar`. Ekstrak terlebih dahulu.  
 3. Buka folder hasil ekstrak di **VS Code**.  
@@ -62,7 +62,7 @@
 
 ---
 
-### 🔹 2. Hands-on — Pemrosesan Audio  
+### 🔹 2. Hands-on Pemrosesan Audio  
 1. Download folder **`Hands-on-Pemrosesan-Audio`**.  
 2. Ekstrak file `.zip` atau `.rar`.  
 3. Buka folder di **VS Code**.  
