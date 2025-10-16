@@ -1,12 +1,17 @@
-# Hands-on Multimedia
+# ⚙️ Hands-on Multimedia  
 
-## Dosen Pengampu
-Martin Clinton Tosima Manullang, Ph.D.
+---
 
-## Nama Mahasiswa
-Arkan Hariz Chandrawinata Liem
+## 👨‍🏫 Dosen Pengampu  
+**Martin Clinton Tosima Manullang, Ph.D.**
 
-## Repository Structure
+## 👨‍💻 Nama Mahasiswa  
+**Arkan Hariz Chandrawinata Liem**
+
+---
+
+## 📂 Repository Structure  
+
 ```
 ├── 1_Exercise-Loading-Multimedia-Data/
 |   ├── data/
@@ -29,34 +34,49 @@ Arkan Hariz Chandrawinata Liem
 └── README.md              
 ```
 
-## Library Python
-1. Numpy
-2. Matplotlib
-3. Librosa
-4. Opencv-python
-5. Scipy
 
-## Cara Menjalankan Kode
-1. Exercise Loading Multimedia Data
-- Download folder "Exercise-Loading-Multimedia-Data".
-- Setelah di download maka hasil nya akan zip/rar, ekstrak terlebih dahulu.
-- Jika sudah di-ekstrak, buka folder di vscode.
-- Kemudian buat environment, bisa menggunakan conda (Miniconda/Anaconda), venv, atau uv.
-- Jika sudah membuat environment, instal beberapa library yang akan digunakan yaitu:
-1. Numpy
-2. Matplotlib
-3. Librosa
-4. Opencv-python
-- Install juga ipykernel supaya jupyter notebook dapat dijalankan.
+---
 
-2. Hands-on-Pemrosesan-Audio
-- Download folder "Hands-on-Pemrosesan-Audio".
-- Setelah di download maka hasil nya akan zip/rar, ekstrak terlebih dahulu.
-- Jika sudah di-ekstrak, buka folder di vscode.
-- Kemudian buat environment, bisa menggunakan conda (Miniconda/Anaconda), venv, atau uv.
-- Jika sudah membuat environment, instal beberapa library yang akan digunakan yaitu:
-1. Numpy
-2. Matplotlib
-3. Librosa
-4. Scipy
-- Install juga ipykernel supaya jupyter notebook dapat dijalankan.
+## 🧠 Library Python yang Digunakan  
+1. 🧮 **NumPy**  
+2. 📊 **Matplotlib**  
+3. 🎵 **Librosa**  
+4. 🎥 **OpenCV-Python**  
+5. 🔬 **SciPy**
+
+---
+
+## 🚀 Cara Menjalankan Kode  
+
+### 🔹 1. Exercise — Loading Multimedia Data  
+1. Download folder **`Exercise-Loading-Multimedia-Data`**.  
+2. File akan berbentuk `.zip` atau `.rar`. Ekstrak terlebih dahulu.  
+3. Buka folder hasil ekstrak di **VS Code**.  
+4. Buat environment baru — bisa menggunakan **conda (Miniconda/Anaconda)**, **venv**, atau **uv**.  
+5. Install library berikut:  
+   - `numpy`  
+   - `matplotlib`  
+   - `librosa`  
+   - `opencv-python`  
+6. Jangan lupa install **ipykernel** agar Jupyter Notebook bisa dijalankan.  
+
+---
+
+### 🔹 2. Hands-on — Pemrosesan Audio  
+1. Download folder **`Hands-on-Pemrosesan-Audio`**.  
+2. Ekstrak file `.zip` atau `.rar`.  
+3. Buka folder di **VS Code**.  
+4. Buat environment baru (conda / venv / uv).  
+5. Install library berikut:  
+   - `numpy`  
+   - `matplotlib`  
+   - `librosa`  
+   - `scipy`  
+6. Install **ipykernel** untuk menjalankan Jupyter Notebook.  
+
+---
+
+## 🌌 Catatan  
+Pastikan seluruh data dalam folder `data` dan `data_ho` berada pada direktori yang sama dengan notebook agar tidak terjadi error saat dijalankan.  
+
+---
