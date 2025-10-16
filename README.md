@@ -6,7 +6,7 @@
 **Martin Clinton Tosima Manullang, Ph.D.**
 
 ## 👨‍💻 Nama Mahasiswa  
-**Arkan Hariz Chandrawinata Liem**
+**Arkan Hariz Chandrawinata Liem (122140038)**
 
 ---
 
