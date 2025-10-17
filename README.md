@@ -59,7 +59,7 @@
    - `numpy`  
    - `matplotlib`  
    - `librosa`  
-   - `opencv-python`
+   - `opencv-python` <br>
    Atau bisa juga install langsung "requirements.txt" yang berisi library diatas.
    Cara install nya, gunakan terminal yang ada di vscode, ketik "conda/venv/uv pip install -r requirements.txt".
 6. Jangan lupa install **ipykernel** agar Jupyter Notebook bisa dijalankan.  
@@ -75,7 +75,7 @@
    - `numpy`  
    - `matplotlib`  
    - `librosa`  
-   - `scipy`
+   - `scipy` <br>
    Atau bisa juga install langsung "requirements.txt" yang berisi library diatas.
    Cara install nya, gunakan terminal yang ada di vscode, ketik "conda/venv/uv pip install -r requirements.txt".
 6. Install **ipykernel** untuk menjalankan Jupyter Notebook.  
